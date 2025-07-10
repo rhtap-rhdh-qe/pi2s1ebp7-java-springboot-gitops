@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pi2s1ebp7-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pi2s1ebp7-java-springboot
